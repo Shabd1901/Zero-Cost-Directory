@@ -1,0 +1,15 @@
+[00:00:00.800] Server  LOG      ✓ Ready in 465ms
+[00:00:42.301] Server  LOG      ○ Compiling / ...
+[00:00:46.539] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:47.249] Browser LOG     [v0] Analytics consent granted - ready to load analytics scripts
+[00:00:47.249] Browser LOG     [v0] Advertising consent granted - ready to load ad scripts
+[00:00:47.371] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:47.371] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:47.371] Browser LOG     %c[Vercel Web Analytics]%c [pageview] https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/","r":"https://fictional-dollop-976vv7959r7q27g7g.github.dev/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766851181827}
+[00:00:52.576] Browser LOG     %c[Vercel Web Analytics]%c [pageview] https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766851187009}
+[00:01:34.448] Browser LOG     %c[Vercel Web Analytics]%c [pageview] https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766851228795}
+[00:03:56.986] Browser LOG     %c[Vercel Web Analytics]%c [pageview] https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/privacy color: rgb(120, 120, 120) color: inherit {"dp":"/privacy","o":"https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/privacy","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766851371434}
+[00:04:11.273] Browser LOG     %c[Vercel Web Analytics]%c [pageview] https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/cookies color: rgb(120, 120, 120) color: inherit {"dp":"/cookies","o":"https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/cookies","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766851385694}
+[00:04:32.318] Browser LOG     [v0] Analytics consent granted - ready to load analytics scripts
+[00:04:32.318] Browser LOG     [v0] Advertising consent granted - ready to load ad scripts
+[00:04:35.589] Browser LOG     %c[Vercel Web Analytics]%c [pageview] https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"https://fictional-dollop-976vv7959r7q27g7g-3000.app.github.dev/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766851409926}

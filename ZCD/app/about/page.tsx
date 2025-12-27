@@ -174,11 +174,19 @@ export default function AboutPage() {
           <div className="grid md:grid-cols-2 gap-8 pt-12">
             
             {/* S&T */}
-            <div className="bg-zinc-900 rounded-xl p-8 space-y-6">
-              <h2 className="text-xl font-bold text-white">An Initiative by S&T Web Works</h2>
-              <p className="text-zinc-400 leading-relaxed">
+            <div className="text-black rounded-xl p-8 space-y-6 bg-zinc-900">
+              <h2 className="text-xl font-bold text-white">An Initiative by<br/>S&T Web Works</h2>
+              <p className="leading-relaxed text-zinc-400">
                 Dedicated to creating public resources that support independent builders and students. This project reflects our commitment to reducing barriers in technology education.
               </p>
+              <a 
+                href="https://stwebworks.vercel.app/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="inline-flex items-center font-bold hover:underline text-white border-double border text-center border-transparent underline gap-2"
+              >
+                Visit S&T Web Works <ArrowUpRight className="h-4 w-4" />
+              </a>
             </div>
 
             {/* TFU */}

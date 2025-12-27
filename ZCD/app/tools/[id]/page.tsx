@@ -12,8 +12,9 @@ export function generateStaticParams() {
   }))
 }
 
-export function generateMetadata({ params }: { params: { id: string } }) {
-  const tool = tools.find((t) => t.id === params.id)
+export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params
+  const tool = tools.find((t) => t.id === id)
 
   if (!tool) {
     return {
@@ -27,8 +28,9 @@ export function generateMetadata({ params }: { params: { id: string } }) {
   }
 }
 
-export default function ToolPage({ params }: { params: { id: string } }) {
-  const tool = tools.find((t) => t.id === params.id)
+export default async function ToolPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params
+  const tool = tools.find((t) => t.id === id)
 
   if (!tool) {
     notFound()

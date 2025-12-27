@@ -23,7 +23,7 @@ export function Header() {
           <div className="relative flex h-10 w-10 items-center justify-center">
             <Image 
               src="/ZCDlogo.png" // Make sure this matches your filename in the public folder
-              
+              alt="Zero-Cost Directory Logo"
               width={70}
               height={70}
               className="object-contain" // Ensures logo fits nicely without stretching

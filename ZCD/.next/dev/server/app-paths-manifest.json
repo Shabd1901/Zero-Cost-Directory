@@ -1,0 +1,6 @@
+{
+  "/about/page": "app/about/page.js",
+  "/cookies/page": "app/cookies/page.js",
+  "/page": "app/page.js",
+  "/privacy/page": "app/privacy/page.js"
+}

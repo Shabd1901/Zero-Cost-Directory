@@ -59,7 +59,7 @@ export function Footer() {
               <LinkedinIcon className="h-5 w-5" />
             </a>
             <a
-              href="mailto:zerocodedirectory@gmail.com"
+              href="mailto:zerocostdirectory@gmail.com"
               className="text-sm text-muted-foreground transition-colors hover:text-foreground"
             >
               contact@zerocost.directory
